@@ -1,8 +1,8 @@
 pipleline {
       agent any
       tools { 
-        maven 'Maven 3.3.9' 
-        jdk 'LocalJava' 
+        //maven 'Maven 3.3.9' 
+       // jdk 'LocalJava' 
       }
              stages{
                stage('build'){
